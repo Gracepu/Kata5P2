@@ -1,17 +1,17 @@
-package kata4.main;
+package kata5P2.main;
 
 import java.io.IOException;
 import java.util.List;
-import kata4.view.HistogramDisplay;
-import kata4.model.Histogram;
-import kata4.view.MailHistogramBuilder;
-import kata4.view.MailListBuilder;
+import kata5P2.view.HistogramDisplay;
+import kata5P2.model.Histogram;
+import kata5P2.view.MailHistogramBuilder;
+import kata5P2.view.MailListBuilder;
 
-public class Kata4 {
+public class Kata5P2 {
 
     public static void main(String[] args) throws IOException {
         
-        Kata4 kata = new Kata4();
+        Kata5P2 kata = new Kata5P2();
         kata.execute();
     }
     
